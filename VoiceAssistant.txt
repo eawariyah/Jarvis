@@ -1,0 +1,12 @@
+Step 1 - virual enviromnets
+python -m venv env
+.\env\Scripts\activate
+
+Step 2 - necessary libraries
+pip install
+- speechRecognition (for actual speach recognition)
+- pyttsx3 (offline text-to-speech conversion library)
+- pywhatkit (automation, video player, whatsapp)
+- wikipedia (to access wikipedia)
+
+Step 3 - Create main file
